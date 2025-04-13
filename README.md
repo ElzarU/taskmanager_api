@@ -1,11 +1,11 @@
-# 🧠 TaskManager API
+# TaskManager API
 
 A fully working REST API for managing personal tasks, with user authentication using JWT.  
 Built with Django, Django REST Framework, and Djoser.
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🔐 JWT Auth (register/login)
 - 📋 Create, Read, Update, Delete tasks
